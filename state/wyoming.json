@@ -1,0 +1,188 @@
+{
+ "name": "wyoming",
+ "format": "JMVM 4",
+ "group": 1533,
+ "bytes": 551592891,
+ "pieces": [
+  {
+   "file": "wyoming-1.jmv",
+   "bytes": 25091993,
+   "sha256": "9eef4fccb7c4ade206dbdf76dff2c0e44c3d0f820d85d70ed6dd8e5d3a4c64ef",
+   "south": 43.58039,
+   "west": -111.1377,
+   "north": 45.058,
+   "east": -110.39062
+  },
+  {
+   "file": "wyoming-2.jmv",
+   "bytes": 43055799,
+   "sha256": "08d0b4e324dadf47a751d31583aa347cb2c375b3cc724796601a716dc3a38e4d",
+   "south": 43.58039,
+   "west": -110.39062,
+   "north": 45.058,
+   "east": -109.6875
+  },
+  {
+   "file": "wyoming-3.jmv",
+   "bytes": 35463268,
+   "sha256": "bd01b4a8f3a0e06b2ed764d17b9cec49bf3fa54a26c612585d641cfad7f985b0",
+   "south": 44.08759,
+   "west": -109.6875,
+   "north": 45.058,
+   "east": -108.28125
+  },
+  {
+   "file": "wyoming-4.jmv",
+   "bytes": 23438259,
+   "sha256": "c930bdba2fa61880d8601f7f3e503d5eb58d40d6410ae9017193ab5a07b63c67",
+   "south": 43.58039,
+   "west": -108.28125,
+   "north": 45.058,
+   "east": -107.57812
+  },
+  {
+   "file": "wyoming-5.jmv",
+   "bytes": 33632003,
+   "sha256": "5c7fad1d1c082bc9331bdee9f16d58bc87763b437e0066512baba0a10b0a657e",
+   "south": 44.08759,
+   "west": -107.57812,
+   "north": 45.058,
+   "east": -106.17188
+  },
+  {
+   "file": "wyoming-6.jmv",
+   "bytes": 20362429,
+   "sha256": "f3641b8f485630cfd7589f65ed45c09afd565288e9f117a2149595eafb410a5f",
+   "south": 43.58039,
+   "west": -106.17188,
+   "north": 45.058,
+   "east": -105.46875
+  },
+  {
+   "file": "wyoming-7.jmv",
+   "bytes": 30867775,
+   "sha256": "312756a4e233845ec748f0bd21d87b9c51ce6917fbb36c6d2dac538829a21f25",
+   "south": 43.58039,
+   "west": -105.46875,
+   "north": 45.058,
+   "east": -103.97461
+  },
+  {
+   "file": "wyoming-8.jmv",
+   "bytes": 28773455,
+   "sha256": "fd6e438a98923f59b6799aeb4187d72d7fb1cc86bd8663132b9f66b4b9179b4f",
+   "south": 43.58039,
+   "west": -109.6875,
+   "north": 44.08759,
+   "east": -108.28125
+  },
+  {
+   "file": "wyoming-9.jmv",
+   "bytes": 16983433,
+   "sha256": "527dfbb6524721e9666196e95f0e53d0607f582b21701c6307c7e204883b4089",
+   "south": 43.58039,
+   "west": -107.57812,
+   "north": 44.08759,
+   "east": -106.17188
+  },
+  {
+   "file": "wyoming-10.jmv",
+   "bytes": 29421129,
+   "sha256": "644b6e24ce538fc8da7d3363215eb8d636fc6b456d7c36b0da3076f20817c04c",
+   "south": 42.55308,
+   "west": -111.09375,
+   "north": 43.58039,
+   "east": -110.39062
+  },
+  {
+   "file": "wyoming-11.jmv",
+   "bytes": 17149170,
+   "sha256": "329534b8e988df4628b10a2d7ff851a8c757cba453bdba21d49deb2e13ce8c67",
+   "south": 42.55308,
+   "west": -110.39062,
+   "north": 43.58039,
+   "east": -109.6875
+  },
+  {
+   "file": "wyoming-12.jmv",
+   "bytes": 35483031,
+   "sha256": "f459e31bbaccad1b64924db7d07812b9755fdf68d3dc2d0c75e5e9d32a36cf66",
+   "south": 42.55308,
+   "west": -109.6875,
+   "north": 43.58039,
+   "east": -108.28125
+  },
+  {
+   "file": "wyoming-13.jmv",
+   "bytes": 33888985,
+   "sha256": "67dcc06ca07ee4ea187f6f3672f54f5a30c2ddc508a5091949107a8f5e5c4caa",
+   "south": 42.55308,
+   "west": -108.28125,
+   "north": 43.58039,
+   "east": -106.17188
+  },
+  {
+   "file": "wyoming-14.jmv",
+   "bytes": 28536134,
+   "sha256": "c91f691bfe7037fd5cd20b07394e4586914b564656f8a01e5a35a9eeb7ae4c12",
+   "south": 42.55308,
+   "west": -106.17188,
+   "north": 43.58039,
+   "east": -104.01855
+  },
+  {
+   "file": "wyoming-15.jmv",
+   "bytes": 32888130,
+   "sha256": "629570301a5c3c43287a91b2bc90dc31c024bdad23a390feb45e84a303fe2bba",
+   "south": 40.94671,
+   "west": -111.09375,
+   "north": 42.55308,
+   "east": -109.6875
+  },
+  {
+   "file": "wyoming-16.jmv",
+   "bytes": 25269316,
+   "sha256": "b917b5e0e5d4b5d768efec5678f729783dbe715057413eed1616dbc45438a8a0",
+   "south": 40.94671,
+   "west": -109.6875,
+   "north": 42.55308,
+   "east": -108.28125
+  },
+  {
+   "file": "wyoming-17.jmv",
+   "bytes": 25981440,
+   "sha256": "21b803a463fb44a3ebe91b1831ef2ad2dc268c35f739803274e15e9b06dcd910",
+   "south": 41.50858,
+   "west": -108.28125,
+   "north": 42.55308,
+   "east": -106.17188
+  },
+  {
+   "file": "wyoming-18.jmv",
+   "bytes": 16809696,
+   "sha256": "b94cc3dbb86c5eb03351a3d1f3d1f61d268ba036967dae407c68d02966b64ab3",
+   "south": 40.94671,
+   "west": -106.17188,
+   "north": 42.55308,
+   "east": -105.46875
+  },
+  {
+   "file": "wyoming-19.jmv",
+   "bytes": 29849737,
+   "sha256": "0f5f6a7f9bdb085bfd1340141dedb86415ea30e8bbd031cff9dd91e44d10f4be",
+   "south": 40.94671,
+   "west": -105.46875,
+   "north": 42.55308,
+   "east": -103.88672
+  },
+  {
+   "file": "wyoming-20.jmv",
+   "bytes": 18647709,
+   "sha256": "7361ec8a8386649c6e64dd021525869339a10c18d732c2e632c9c4bff2b5aa07",
+   "south": 40.94671,
+   "west": -108.28125,
+   "north": 41.50858,
+   "east": -106.17188
+  }
+ ]
+}
