@@ -1,0 +1,197 @@
+{
+ "name": "colorado",
+ "format": "JMVM 4",
+ "group": 59198,
+ "bytes": 654634882,
+ "pieces": [
+  {
+   "file": "colorado-1.jmv",
+   "bytes": 23675385,
+   "sha256": "7f619f58269051b33144bbca13977d637d28b6797c00479487f46712bce5a0ef",
+   "south": 39.90974,
+   "west": -109.11621,
+   "north": 41.04622,
+   "east": -108.28125
+  },
+  {
+   "file": "colorado-2.jmv",
+   "bytes": 38322234,
+   "sha256": "93b4f5dbd2f9634bedee4bd4db27a26afc078eeb9afe642b5ebf89a2f84f4c18",
+   "south": 39.90974,
+   "west": -108.28125,
+   "north": 41.04622,
+   "east": -106.875
+  },
+  {
+   "file": "colorado-3.jmv",
+   "bytes": 22541802,
+   "sha256": "c6c87202b10b808f3344f6906ff764a9c9727d3f0e5dc7f5c93f2310ae73a2a3",
+   "south": 40.44695,
+   "west": -106.875,
+   "north": 41.04622,
+   "east": -105.46875
+  },
+  {
+   "file": "colorado-4.jmv",
+   "bytes": 23534632,
+   "sha256": "3814af36f97b97a51865b2fc1ff589fd367d4fe79694f1861ea7ab82692d84ea",
+   "south": 39.90974,
+   "west": -105.46875,
+   "north": 41.04622,
+   "east": -104.76562
+  },
+  {
+   "file": "colorado-5.jmv",
+   "bytes": 34510126,
+   "sha256": "2c04bb9dac530a5caeaec7c1d138c6a42444760513fc5b33104964006faa6447",
+   "south": 38.82259,
+   "west": -104.76562,
+   "north": 41.04622,
+   "east": -101.99707
+  },
+  {
+   "file": "colorado-6.jmv",
+   "bytes": 28109996,
+   "sha256": "e5d8c723df8bb96ed2d8f58e4edb49367f61a71a039cfbb52976d2ba8bd8728a",
+   "south": 39.90974,
+   "west": -106.875,
+   "north": 40.44695,
+   "east": -105.46875
+  },
+  {
+   "file": "colorado-7.jmv",
+   "bytes": 32891734,
+   "sha256": "51545fb66bc0ff6bda7af3afa5079461ea740f1221659f0599a8e9b1a6ca5cc1",
+   "south": 38.82259,
+   "west": -109.11621,
+   "north": 39.90974,
+   "east": -108.28125
+  },
+  {
+   "file": "colorado-8.jmv",
+   "bytes": 28526849,
+   "sha256": "caf3744b332de1b6228f4cc3056bf54d4db075299ec30bba084f804b3eb447fe",
+   "south": 38.82259,
+   "west": -108.28125,
+   "north": 39.90974,
+   "east": -107.57812
+  },
+  {
+   "file": "colorado-9.jmv",
+   "bytes": 35208998,
+   "sha256": "ad70e81efb2230e54594ee66481a30c437ff3357f57ad104148dfeb2cf43434a",
+   "south": 38.82259,
+   "west": -107.57812,
+   "north": 39.90974,
+   "east": -106.875
+  },
+  {
+   "file": "colorado-10.jmv",
+   "bytes": 34180628,
+   "sha256": "3706a9f18d667084d514d0a1036f456b4f8753fad5fbd3d0ea0ddcf0888bc7cf",
+   "south": 38.82259,
+   "west": -106.875,
+   "north": 39.90974,
+   "east": -106.17188
+  },
+  {
+   "file": "colorado-11.jmv",
+   "bytes": 27105681,
+   "sha256": "5c1524edc2332fe2faabcdf928e9b08d0ad5734b9e9238a530ec7b45f3a85f6e",
+   "south": 38.82259,
+   "west": -106.17188,
+   "north": 39.90974,
+   "east": -105.46875
+  },
+  {
+   "file": "colorado-12.jmv",
+   "bytes": 34323856,
+   "sha256": "f2105baed9d0693f8d0b1baf2a2a2e7cc77f09e2bdcdf82a86abf3f78220325d",
+   "south": 38.82259,
+   "west": -105.46875,
+   "north": 39.90974,
+   "east": -104.76562
+  },
+  {
+   "file": "colorado-13.jmv",
+   "bytes": 25944257,
+   "sha256": "d794e1e0583c1629b48e5e92e9e312b7f41449f8a959b48a745884b49625d5b6",
+   "south": 37.71859,
+   "west": -109.11621,
+   "north": 38.82259,
+   "east": -108.28125
+  },
+  {
+   "file": "colorado-14.jmv",
+   "bytes": 28210773,
+   "sha256": "0d4ee233f9760bb78572cd67d8394d0a226414b3647f6be377fbe24acc09f050",
+   "south": 37.71859,
+   "west": -108.28125,
+   "north": 38.82259,
+   "east": -107.57812
+  },
+  {
+   "file": "colorado-15.jmv",
+   "bytes": 32922445,
+   "sha256": "cb0d60e714d837387951de17f616a390a11e6451bea2b4f4b300efa10d4658b8",
+   "south": 37.71859,
+   "west": -107.57812,
+   "north": 38.82259,
+   "east": -106.875
+  },
+  {
+   "file": "colorado-16.jmv",
+   "bytes": 30755878,
+   "sha256": "06478351fa218bc8abfc4a03e957ff4d2dad877d13d639e9162e89da049bd04f",
+   "south": 38.27269,
+   "west": -106.875,
+   "north": 38.82259,
+   "east": -105.46875
+  },
+  {
+   "file": "colorado-17.jmv",
+   "bytes": 42942174,
+   "sha256": "8b3005f093f8f3e7ce8c95466b3848f43ef36c16f0e1bcdd9b85e679d4fddd64",
+   "south": 36.94989,
+   "west": -105.46875,
+   "north": 38.82259,
+   "east": -104.76562
+  },
+  {
+   "file": "colorado-18.jmv",
+   "bytes": 31593739,
+   "sha256": "e90242a1c704db41cd3d8ab690512a83c3bf00eafb23f0ea9badcb2eefbde543",
+   "south": 36.94989,
+   "west": -104.76562,
+   "north": 38.82259,
+   "east": -101.95312
+  },
+  {
+   "file": "colorado-19.jmv",
+   "bytes": 43072284,
+   "sha256": "6788e8854f726f03e3d3a4128e0a4f9ce77447149f7587092b6011c77aefa516",
+   "south": 36.94989,
+   "west": -106.875,
+   "north": 38.27269,
+   "east": -105.46875
+  },
+  {
+   "file": "colorado-20.jmv",
+   "bytes": 33341233,
+   "sha256": "51655cd23259fc0adb090cfd82c266d17f1e9f9f98588790f368b34a302383e0",
+   "south": 36.94989,
+   "west": -109.11621,
+   "north": 37.71859,
+   "east": -107.57812
+  },
+  {
+   "file": "colorado-21.jmv",
+   "bytes": 22920178,
+   "sha256": "745f9bd9db30f99dbb2e9387ec1bead48d2556bd20853df521c46c70285a8852",
+   "south": 36.94989,
+   "west": -107.57812,
+   "north": 37.71859,
+   "east": -106.875
+  }
+ ]
+}
