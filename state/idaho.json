@@ -1,0 +1,242 @@
+{
+ "name": "idaho",
+ "format": "JMVM 4",
+ "group": 40318,
+ "bytes": 818363104,
+ "pieces": [
+  {
+   "file": "idaho-1.jmv",
+   "bytes": 33405780,
+   "sha256": "a5c46b72b791a2eba32d5df2766ef6016f65369764b5ee107f23157d68b2ee7f",
+   "south": 47.98992,
+   "west": -117.11426,
+   "north": 49.03787,
+   "east": -115.97168
+  },
+  {
+   "file": "idaho-2.jmv",
+   "bytes": 36544422,
+   "sha256": "fba0dd880c3ebb04043ed05e39adbde4da35cfd7ef36ce71b2a2fb3a05f31403",
+   "south": 47.04018,
+   "west": -117.11426,
+   "north": 47.98992,
+   "east": -116.01562
+  },
+  {
+   "file": "idaho-3.jmv",
+   "bytes": 24777808,
+   "sha256": "895fcfa445300e9ed1663c0e4cd0ed41aaf84ce45e1497e0e544ea5cef781d4f",
+   "south": 47.04018,
+   "west": -116.01562,
+   "north": 47.98992,
+   "east": -115.00488
+  },
+  {
+   "file": "idaho-4.jmv",
+   "bytes": 31029313,
+   "sha256": "d36ea395f8d352c6e2d4b02be85bc163f74a611df316edd24bf5eb958d6c8731",
+   "south": 46.07323,
+   "west": -117.11426,
+   "north": 47.04018,
+   "east": -116.01562
+  },
+  {
+   "file": "idaho-5.jmv",
+   "bytes": 35146026,
+   "sha256": "f19934daba72d8a6cb9b4ed63e013e15a53de4087c388ffc80407cdec1daf5d8",
+   "south": 46.07323,
+   "west": -116.01562,
+   "north": 47.04018,
+   "east": -115.3125
+  },
+  {
+   "file": "idaho-6.jmv",
+   "bytes": 39992343,
+   "sha256": "e46fe8200c6596c2a647d2d9aee88414debe7d31b85818e5d9f58ee92d6aef47",
+   "south": 46.07323,
+   "west": -115.3125,
+   "north": 47.04018,
+   "east": -114.25781
+  },
+  {
+   "file": "idaho-7.jmv",
+   "bytes": 21332463,
+   "sha256": "38e23f62d3bc0efa53db477d3542c0239931b9167d8f579d6f2ae78f593c60be",
+   "south": 45.58329,
+   "west": -117.07031,
+   "north": 46.07323,
+   "east": -116.01562
+  },
+  {
+   "file": "idaho-8.jmv",
+   "bytes": 34669031,
+   "sha256": "6969dae0494d53261f1e2cc70ae4078f3915f4134031f8153fa2bcba65d8c539",
+   "south": 45.08904,
+   "west": -116.01562,
+   "north": 46.07323,
+   "east": -115.3125
+  },
+  {
+   "file": "idaho-9.jmv",
+   "bytes": 39855676,
+   "sha256": "914ebf9a8a9c65cc30f25089763b3aad39401a824fc23a01ba1c5c6f63c95e49",
+   "south": 45.08904,
+   "west": -115.3125,
+   "north": 46.07323,
+   "east": -114.60938
+  },
+  {
+   "file": "idaho-10.jmv",
+   "bytes": 45818339,
+   "sha256": "1b797828b109d78a92ceaa20d2bb2f2bcb4a75186dfe6dedf4e982c9659d5d6b",
+   "south": 44.59047,
+   "west": -114.60938,
+   "north": 46.07323,
+   "east": -113.90625
+  },
+  {
+   "file": "idaho-11.jmv",
+   "bytes": 23393502,
+   "sha256": "75539d2331eb147ca9b3a0071d574ebf4fc290ff2be2639ee6dcbc3764d5abc3",
+   "south": 44.59047,
+   "west": -113.90625,
+   "north": 45.73686,
+   "east": -111.1377
+  },
+  {
+   "file": "idaho-12.jmv",
+   "bytes": 37912112,
+   "sha256": "34a9f15599c69eda930e29b73760b50e9b6f7a52054c8557d01d83ba014286f5",
+   "south": 44.59047,
+   "west": -117.20215,
+   "north": 45.58329,
+   "east": -116.01562
+  },
+  {
+   "file": "idaho-13.jmv",
+   "bytes": 18563004,
+   "sha256": "e5a50e8165c88172b3faa4401288b6653fc1febba015d7593be410e3c3f86239",
+   "south": 44.59047,
+   "west": -116.01562,
+   "north": 45.08904,
+   "east": -115.3125
+  },
+  {
+   "file": "idaho-14.jmv",
+   "bytes": 25741388,
+   "sha256": "e6373531a504a4b987bda0e55f2c5276660b2004f31cba21311f6005e34e4d37",
+   "south": 44.59047,
+   "west": -115.3125,
+   "north": 45.08904,
+   "east": -114.60938
+  },
+  {
+   "file": "idaho-15.jmv",
+   "bytes": 31382925,
+   "sha256": "88a58746b44b5cf5a17067ac189b54d5e78d025e5a4616a2cf17f00106b37c55",
+   "south": 43.58039,
+   "west": -117.29004,
+   "north": 44.59047,
+   "east": -116.01562
+  },
+  {
+   "file": "idaho-16.jmv",
+   "bytes": 39566886,
+   "sha256": "904591b8e56d7e22f02ea3254b7d867ca91c4894e13e1109a263904a2216bab8",
+   "south": 43.58039,
+   "west": -116.01562,
+   "north": 44.59047,
+   "east": -115.3125
+  },
+  {
+   "file": "idaho-17.jmv",
+   "bytes": 41008212,
+   "sha256": "cc3bad058331278c9d9f7c1848e0b0feee297ecbc93463251d72a776284f6b6a",
+   "south": 43.58039,
+   "west": -115.3125,
+   "north": 44.59047,
+   "east": -114.60938
+  },
+  {
+   "file": "idaho-18.jmv",
+   "bytes": 35571639,
+   "sha256": "8f60029c527eeaf8a47871ef3a50fba9afc24bc2b46dda42832078995f0ffc29",
+   "south": 43.58039,
+   "west": -114.60938,
+   "north": 44.59047,
+   "east": -113.90625
+  },
+  {
+   "file": "idaho-19.jmv",
+   "bytes": 26202165,
+   "sha256": "a9a1ecd1a1f330a82f595c351b8f700fdc82705b1bd070b6acdaf7ffd1454a82",
+   "south": 43.58039,
+   "west": -113.90625,
+   "north": 44.59047,
+   "east": -113.20312
+  },
+  {
+   "file": "idaho-20.jmv",
+   "bytes": 28325568,
+   "sha256": "b44224deb306e2a55ba6cda94444901013d83d02533c1b84ce10abf812432b03",
+   "south": 43.06889,
+   "west": -113.20312,
+   "north": 44.59047,
+   "east": -111.79688
+  },
+  {
+   "file": "idaho-21.jmv",
+   "bytes": 25010150,
+   "sha256": "a59097131d04b9f2232fd040b91c30f8e929414080069f6c07babce883006bbb",
+   "south": 43.06889,
+   "west": -111.79688,
+   "north": 44.59047,
+   "east": -110.96191
+  },
+  {
+   "file": "idaho-22.jmv",
+   "bytes": 25660540,
+   "sha256": "8b667c2046577451ba87c0f075de77f7bfb6bb37087d70d3b5b3887ff9e7795f",
+   "south": 41.93498,
+   "west": -117.11426,
+   "north": 43.58039,
+   "east": -116.01562
+  },
+  {
+   "file": "idaho-23.jmv",
+   "bytes": 33553753,
+   "sha256": "1372364ccb89bbf5643e3ebef77ed5741742c0bbcc86bdda86f8c4d455741681",
+   "south": 41.93498,
+   "west": -116.01562,
+   "north": 43.58039,
+   "east": -114.60938
+  },
+  {
+   "file": "idaho-24.jmv",
+   "bytes": 28464010,
+   "sha256": "1837f6c90aeafad8d51a726d7025dec6bd6c8e47a16dba432f753a1ba7cb7ba9",
+   "south": 41.93498,
+   "west": -114.60938,
+   "north": 43.58039,
+   "east": -113.20312
+  },
+  {
+   "file": "idaho-25.jmv",
+   "bytes": 33293704,
+   "sha256": "15b741aefbe2da5a6d6a4a7e45c0bde860bf86a277bf3a82dec5fb40d55e69b8",
+   "south": 41.93498,
+   "west": -113.20312,
+   "north": 43.06889,
+   "east": -111.79688
+  },
+  {
+   "file": "idaho-26.jmv",
+   "bytes": 22142345,
+   "sha256": "43d8cf522185039c7aaf116d067254fcc35fccdfc48f79d33e597043c6864c2f",
+   "south": 41.93498,
+   "west": -111.79688,
+   "north": 43.06889,
+   "east": -110.96191
+  }
+ ]
+}
