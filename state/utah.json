@@ -1,0 +1,188 @@
+{
+ "name": "utah",
+ "format": "JMVM 4",
+ "group": 3718,
+ "bytes": 617747555,
+ "pieces": [
+  {
+   "file": "utah-1.jmv",
+   "bytes": 24459110,
+   "sha256": "bc37a1ae8614dc3a89af99ab12cebeff62edc4cc87a9affb4129a9a802ba1f13",
+   "south": 40.44695,
+   "west": -114.12598,
+   "north": 42.06561,
+   "east": -112.5
+  },
+  {
+   "file": "utah-2.jmv",
+   "bytes": 28180434,
+   "sha256": "bb07de4ae4891a20ed662e85e8f8d3d80fb37b5c6efa296f6cfcabb143157ec9",
+   "south": 40.44695,
+   "west": -112.5,
+   "north": 42.06561,
+   "east": -111.79688
+  },
+  {
+   "file": "utah-3.jmv",
+   "bytes": 35025668,
+   "sha256": "d157b3b4f2793c0e100eee5a198b1c4256968bdb09fb2e4012d6a900843d859a",
+   "south": 40.44695,
+   "west": -111.09375,
+   "north": 42.06561,
+   "east": -108.98438
+  },
+  {
+   "file": "utah-4.jmv",
+   "bytes": 42703495,
+   "sha256": "2752ed323c00780db3049406b30ee157bb9b52d597a13af0f2dceeeb9680bdc4",
+   "south": 40.44695,
+   "west": -111.79688,
+   "north": 42.03297,
+   "east": -111.09375
+  },
+  {
+   "file": "utah-5.jmv",
+   "bytes": 31862182,
+   "sha256": "93716eb5a6a3e8e177494d46800ebe124bc5253155b07092462a0d2da4340fb4",
+   "south": 38.82259,
+   "west": -114.12598,
+   "north": 40.44695,
+   "east": -112.5
+  },
+  {
+   "file": "utah-6.jmv",
+   "bytes": 27798676,
+   "sha256": "b896ba8e9eb2851635c26e6c07a88126f74493309ca2877b1ffb4aa0a78e799c",
+   "south": 38.82259,
+   "west": -112.5,
+   "north": 40.44695,
+   "east": -111.79688
+  },
+  {
+   "file": "utah-7.jmv",
+   "bytes": 43229215,
+   "sha256": "d112b44ea756aa5414762fae15ef72c6f256eed99192a3d0c0964eb24b7f84ed",
+   "south": 38.82259,
+   "west": -111.79688,
+   "north": 40.44695,
+   "east": -111.09375
+  },
+  {
+   "file": "utah-8.jmv",
+   "bytes": 28764412,
+   "sha256": "95ed53792994ace56729f0073505533692f13ee04bf58de3ee20ffcde06b8bcc",
+   "south": 39.90974,
+   "west": -111.09375,
+   "north": 40.44695,
+   "east": -108.98438
+  },
+  {
+   "file": "utah-9.jmv",
+   "bytes": 25025923,
+   "sha256": "5a10bb449400f05ecfd35a547c47c081e1004b446c0625079c5938a9784cc98b",
+   "south": 38.82259,
+   "west": -111.09375,
+   "north": 39.90974,
+   "east": -110.39062
+  },
+  {
+   "file": "utah-10.jmv",
+   "bytes": 33714038,
+   "sha256": "bb8adc39b78f01cafd855cd898af9a9e898a87fe69e9680baf618d06ccbdf682",
+   "south": 38.82259,
+   "west": -110.39062,
+   "north": 39.90974,
+   "east": -109.6875
+  },
+  {
+   "file": "utah-11.jmv",
+   "bytes": 25292050,
+   "sha256": "2391137680284339537bc0bbc4332558135216104366a134383ef223c5529aa7",
+   "south": 38.82259,
+   "west": -109.6875,
+   "north": 39.90974,
+   "east": -108.98438
+  },
+  {
+   "file": "utah-12.jmv",
+   "bytes": 29946597,
+   "sha256": "499d34e5357301955d74d749566d3956c7f59638eb992f1a20f9c3d5c6061730",
+   "south": 37.71859,
+   "west": -114.12598,
+   "north": 38.82259,
+   "east": -112.5
+  },
+  {
+   "file": "utah-13.jmv",
+   "bytes": 25851814,
+   "sha256": "f4a9b1b92354aaa1c237425aa021319fdf1185c73c93e249887ccf0547f37811",
+   "south": 37.71859,
+   "west": -112.5,
+   "north": 38.82259,
+   "east": -111.79688
+  },
+  {
+   "file": "utah-14.jmv",
+   "bytes": 24466588,
+   "sha256": "15efb72377b9fffe04f61a1efc151c2225ef64eeca95ee6031882233db5d0a90",
+   "south": 37.71859,
+   "west": -111.79688,
+   "north": 38.82259,
+   "east": -111.09375
+  },
+  {
+   "file": "utah-15.jmv",
+   "bytes": 25747754,
+   "sha256": "fa81b8743e7b707f2b027f0df75ad867887b3ee85482db05452dcdaa54540703",
+   "south": 37.71859,
+   "west": -111.09375,
+   "north": 38.82259,
+   "east": -110.39062
+  },
+  {
+   "file": "utah-16.jmv",
+   "bytes": 28444935,
+   "sha256": "405e49d7547f7f62b985b937a808c53d751432a3f7746722037bc0f1e502571d",
+   "south": 37.71859,
+   "west": -110.39062,
+   "north": 38.82259,
+   "east": -109.6875
+  },
+  {
+   "file": "utah-17.jmv",
+   "bytes": 21473579,
+   "sha256": "692bf0a70934ed5ef5af99e76a4a7481e69effdb9323e228574375b4e655001c",
+   "south": 37.71859,
+   "west": -109.6875,
+   "north": 38.82259,
+   "east": -108.98438
+  },
+  {
+   "file": "utah-18.jmv",
+   "bytes": 39647366,
+   "sha256": "1a8931488839ab4ec191a30ee8c16351b49e2f6b56b441995510213c649c9d1b",
+   "south": 36.94989,
+   "west": -114.12598,
+   "north": 37.71859,
+   "east": -112.5
+  },
+  {
+   "file": "utah-19.jmv",
+   "bytes": 33972124,
+   "sha256": "8173442349ab0b01cd2e838372dcb55a442071d54cec5725246af7ec28c1da16",
+   "south": 36.94989,
+   "west": -112.5,
+   "north": 37.71859,
+   "east": -111.09375
+  },
+  {
+   "file": "utah-20.jmv",
+   "bytes": 42141595,
+   "sha256": "482595daa3770913c15de1fc0ec61409dfd26f281121b688b06b0b8379d0453c",
+   "south": 36.94989,
+   "west": -111.09375,
+   "north": 37.71859,
+   "east": -108.98438
+  }
+ ]
+}
